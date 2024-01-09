@@ -34,14 +34,13 @@ Here are some ideas to get you started:
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
-I am a Frontend Developer and Webdesigner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 Currently learning **MERN** Stack to become a full stack developer
+I am a Full stack Web Developer and Webdesigner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 Do little bit of freelancing on **Upwork** and **Fiverr**
 - 😾 I love cats
 
